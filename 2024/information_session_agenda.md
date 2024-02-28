@@ -1,6 +1,10 @@
 # OSPO VSIP Informational Session
 
-Please join us on February 27th for lightning talks from these researchers on their open source projects. Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more details on the program and to apply. 
+This page contains the agenda and slides for the informational session held on February 27th, 2024. 
+
+The video recording for this session can be found on our Mediaspace [here](https://mediaspace.gatech.edu/media/Georgia+Tech+OSPO+Summer+Internship+-+Informational+Meeting+-+February+27th%2C+2024/1_x91gms33).
+
+Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more details on the program and to apply. 
 
 | **Talk Time (EST)** | **Project Name**                                             | **Project Leaders**                 | **Student Prerequisites**                                    | **Special Computing Resources R**equired                     | **Lightning Talk Slides** |
 | ------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
