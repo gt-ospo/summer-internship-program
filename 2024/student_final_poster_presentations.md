@@ -2,7 +2,7 @@
 
 This page contains the agenda and poster presentations for the final poster session for the 2024 Virtual Summer Internship Program (VSIP) held on July 30th, 2024.
 
-The video recording for this session can be found on our Mediaspace [here]() after the event has ended.
+The video recording for this session can be found on our Mediaspace [here](https://mediaspace.gatech.edu/media/OSPO+Virtual+Summer+Internship+Program+-+Poster+Presentations/1_1xzqetrt).
 
 All posters can be found as links from this page. 
 
