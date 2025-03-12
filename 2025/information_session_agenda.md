@@ -4,7 +4,7 @@ This page contains the agenda and slides for the informational session held on M
 
 The video recording for this session can be found on our Mediaspace [TBD]().
 
-Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more details on the program and to apply. 
+Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip-2025/) for more details on the program and to apply. 
 
 | **Talk Time (EST)** | **Project Name**                                             | **Project Leaders**                 | **Student Prerequisites**                                    | **Special Computing Resources Required**                     | **Lightning Talk Slides** |
 | ------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
