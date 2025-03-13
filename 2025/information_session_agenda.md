@@ -19,5 +19,4 @@ Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip-2025/) for more 
 | 4:25                | [Cybershuttle](https://github.com/cyber-shuttle) | Lahiru Jayathilake, Yasith Jayawardana                      | Python, React, HTML/JS/CSS |  | [Slides]()     |
 | 4:30                | [IBM Granite](https://www.ibm.com/granite/docs/use-cases/all-cookbooks/) | Susan Malaika                       | Machine Learning, Python, Time Series  |  | [Slides]()                   |
 | 4:35                | [Model Openness Framework](https://isitopen.ai/)) | Arnaud "Arno" Le Hors   | Machine Learning, Python, Time Series  |  | [Slides]()                   |
-| 4:40                | [MFem](https://github.com/mfem/mfem/tree/tds-gs)  | Qi Tang                  |             Expertise in C++ or Python                                          |                     
- 
+| 4:40                | [MFem](https://github.com/mfem/mfem/tree/tds-gs)  | Qi Tang                  |             Expertise in C++ or Python      | | [Related YouTube Video](https://www.youtube.com/watch?v=Lpm0qOdhVpI&t=1s)  | 
