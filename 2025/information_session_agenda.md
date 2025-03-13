@@ -17,3 +17,5 @@ Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip-2025/) for more 
 | 4:15                | [CuPBoP](https://github.com/cupbop/CuPBoP) | Hyesoon Kim                       | C++  |  | [Slides]()                    |
 | 4:20                | [GTSAM](https://github.com/borglab/gtsam) | Frank Dallaert                       | C++ and some robotics perception experience |  | [Slides]()                    |
 | 4:25                | [IBM Granite](https://www.ibm.com/granite/docs/use-cases/all-cookbooks/) | Susan Malaika                       | Machine Learning, Python, Time Series  |  | [Slides]()                    |
+| 4:30                | [Airavata](https://github.com/apache/airavata) | Lahiru Jayathilake, Yasith Jayawardana                      | Java, Python, Docker, gRPC, Protobuf |  | [Slides]()     |
+| 4:35                | [Cybershuttle](https://github.com/cyber-shuttle) | Lahiru Jayathilake, Yasith Jayawardana                      | Python, React, HTML/JS/CSS |  | [Slides]()     |
