@@ -2,7 +2,7 @@
 
 This page contains the agenda and slides for the informational session held on March 13th, 2025. 
 
-The video recording for this session can be found on our Mediaspace [TBD]().
+The video recording for this session can be found on our Mediaspace [Part 1](https://mediaspace.gatech.edu/media/GT+OSPO+-+Virtual+Summer+Internship+Student+Program+%28VSIP%29+Interest+Session+-+Part+1+of+2/1_1ihhzqcw) and [Part 2](https://mediaspace.gatech.edu/media/GT+OSPO+-+Virtual+Summer+Internship+Student+Program+%28VSIP%29+Interest+Session+-+Part+2+of+2/1_9ml1j6js).
 
 Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip-2025/) for more details on the program and to apply. 
 
