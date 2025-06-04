@@ -2,8 +2,12 @@
 
 This page covers some added resources to run and work with the open source [IBM Granite Workshop material](https://ibm.github.io/granite-workshop).
 
-## Running on PACE ICE
+> [!IMPORTANT]
+> You will need access to the GA Tech VPN - this can be installed locally, or run through the browser here: [vpn.gatech.edu](https://vpn.gatech.edu/)
 
+___
+
+## Running on PACE ICE
 Students with the VSIP program have access to the ICE cluster, which has CPU and GPU backends as well as an ollama instance supported through Open OnDemand. This Ollama instance can be used in place of running locally on your laptop or Replicate, which uses a GPU backend.
 
 [Using Ollama + Jupyter in Open OnDemand](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0044442) (requires GT login)
@@ -11,33 +15,48 @@ Students with the VSIP program have access to the ICE cluster, which has CPU and
 > [!NOTE] 
 > PACE supports ollama endpoints via Slurm scheduled jobs rather than as a locally (laptop) or remotely hosted (Replicate) service. You can use the Open OnDemand (OOD) application on PACE ICE to schedule a Slurm job that then has access to a set of shared models, including the latest Granite 3 models.
 
-### Setting up your PACE virtual environment
+## Part 1: Setting Up Your PACE Virtual Environment
+We highly suggests that you create a "clean" venv or virtual environment to run the workshop notebooks. Once you log in to PACE ICE, you can run the following from a terminal on the login node:
 
-The workshop highly suggests that you create a "clean" venv or virtual environment to run the workshop notebooks. Once you log in to PACE ICE, you can run the following from a terminal on the login node:
-
+- Step 1. Load the (stable) Python version
 ```
 [login-ice ~]$ module load python/3.12
-# Note we've named our venv "granite_venv" here but you can name it whatever you like!
+```
+
+- Step 2. Declare the virtual environment
+```
 [login-ice ~]$ python -m venv --upgrade-deps --clear venv granite_env
-# Source the environment to use it on your terminal
+```
+> [!NOTE]
+> We've named our venv "granite_venv" here but you can name it whatever you like!
+
+
+- Step 3. Source the newly decalred environment to use it on your terminal
+```
 [login-ice ~]$ source ~/granite_env/bin/activate
-# Make sure this venv has jupyter installed to use with the PACE OOD environment
+```
+> [!NOTE]
+> Make sure this venv has jupyter installed to use with the PACE OOD environment.
+
+- Step 4. Install the required python-pip libraries
+```
 (granite_env) [login-ice ~]$ python -m pip install --require-virtualenv notebook jupyter ipywidgets
 ```
 
-### Clone the Granite workshop repo
+## Part 2: Clone The Granite Workshop Repo
+While we're still in the terminal, we need to clone the Granite workshop repo into a desired location on PACE.
 
-While you're in the terminal, Git clone the Granite workshop repo in a desired location.  When you start your Jupyter session, you will then use the Jupyter file browser to navigate to `granite-workshop/notebooks`
-
+- Step 1. Clone The IBM Granite Workshop Repo
 ```
 [login-ice ~]$ git clone https://github.com/IBM/granite-workshop.git
 ```
+- Step 2. Now when you start your Jupyter session, you'll then use the Jupyter file browser to navigate to `granite-workshop/notebooks`.
 
-### Starting an Open OnDemand instance
-The easiest way to use Ollama with Jupyter notebooks is to use the [Open OnDemand instance for ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133) (Requires GT login for docs and OOD interface). Once you log in to the OnDemand instance, you can select the following: `Interactive Applications->Ollama + Jupyter (Beta)`
 
----
-We recommend running with the following parameters:
+## Part 3: Starting an Open OnDemand instance
+The easiest way to use Ollama with Jupyter notebooks is to use the [Open OnDemand instance for ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133) (Requires GT login for docs and OOD interface). Once you log in to the OnDemand instance [**(Direct Access Link, GATECH VPN/LOGIN Required)**](https://ondemand-ice.pace.gatech.edu/pun/sys/dashboard/batch_connect/sys/bc_ollama_jupyter_rh9/session_contexts/new), you can select the following: `Interactive Applications->Ollama + Jupyter (Beta)`
+
+Now you need to create an instance, for your convience - we recommend running with the following parameters:
 - Python environment: Custom virtual environment
     - Virtual environment path: Wherever you created your virtual environment (see above).  In our example, we used `/home/hice1/<gburdell>/granite_venv`
 - Ollama models directory: `PACE Shared Models`
@@ -48,14 +67,13 @@ We recommend running with the following parameters:
 - Total memory: <32 GB or 64 GB>
 - Time: <start with 1 hour and expand as needed>
 - Quality of service: `Default (none)`
+
 ---
 
+## Part 4: ICE Specific Changes
+Through testing, we've discovered a change that must be made in regards to how the notebooks starts an Ollama session. Our approach on ICE is actually simpler than the original notebook.
 
-### Changes to notebooks on ICE
-
-We've discovered we need to change how the notebooks starts an Ollama session.  The approach that works on ICE is simpler than the original notebook.
-
-In the original [Summarize example notebook](https://ibm.github.io/granite-workshop/lab-1/), the session is started in this cell. 
+In the original [Summarize example notebook](https://ibm.github.io/granite-workshop/lab-1/) from Lab 1, the session is started in this cell. 
  
 ```Python
 import os
@@ -86,7 +104,7 @@ except Exception: # Use Replicate for the model
     )
 ```
 
-**However, we can replace the entire cell with this** and proceed with the rest of the notebook.
+**However,** you must replace this cell with the code below in order to proceed with the rest of the notebook.
 
 ```Python
 import os
@@ -101,37 +119,46 @@ model = model.bind(raw=True) # Client side controls prompt
 ```
 
 > [!TIP] 
-> To print out all the available models for Ollama you can run the following:
+> Once you've made the change, you can print out all the available models for your Ollama instance by running the following in a new cell:
+> ```
+> import ollama
+> for m in ollama.list().models:
+>     print(m.model)
+> ```
 
-```
-import ollama
-for m in ollama.list().models:
-    print(m.model)
-```
+#### You're all set! Now you can rock and roll with Ollama via your browser 🚀🤘
 
-## Running locally
+___ 
 
-The Granite workshop recommends running on a laptop with at least 32 GB of memory and possibly a GPU. Note that some of the workshop examples may take 10-20 minutes to run on a laptop with less memory or no integrated GPU.
+## Frequently Asked Questions
+### Can I run these locally
+IBM recommends running the Granite workshop on a computer with at least 32 GB of RAM and with a GPU. Users who wish to run the workshop locally but do not have a computer that meets these requirements, may experience generation times of 10-20 minutes to run a single query on a computer with the Granite demos - along side increased heat production and resource consumption.
 
-## Possible local errors
+We encourage you to play around with these models, after all - they're open source! But please note that not everything you want to build may be possible to run on your current computer without the help of the PACE-ICE cluser.
 
-**Note:** most of these errors were experienced on MacOS.
+### Possible local errors
+> [!CAUTION]
+> Most errors were experienced on MacOS, users are advised to use Windows or Linux if possible.
 
-### Python version does not match the expected Python 3.10-3.13
+`Python version does not match the expected Python 3.10-3.13`
 
 If you get an error when running the Granite notebooks about the Python version, you can try the following:
 
-1) Create a Python environment with an explicit version of Python. Here we name it "granite_venv"
-```
+- Step 1. Create a Python environment with an explicit version of Python. Here we name it "granite_venv"
+```bash
 python3.10 -m venv --upgrade-deps --clear venv granite_venv
 source granite_venv/bin/activate
 python -m pip install --require-virtualenv notebook ipywidgets
-#Then start jupyter from this venv to use this version of Python
 ```
+> [!NOTE]
+> You now need to start Jupyter from this venv to use this version of Python
 
-2) Make sure you don't have other copies of Jupyter notebook or lab installed that use other versions of Python
+- Step 2. Make sure you don't have other copies of Jupyter notebook or lab installed that use other versions of Python
 
-```
+```bash
 brew list | grep jupyter
 brew remove jupyter
 ```
+
+> [!IMPORTANT]
+> If you experience an error that was not described above, please reach out to your faculty mentor for help via relay.
