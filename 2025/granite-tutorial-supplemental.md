@@ -51,14 +51,10 @@ A new terminal window should open, you can now run the following commands to set
 (granite_env) [login-ice ~]$ python -m pip install --require-virtualenv notebook jupyter ipywidgets
 ```
 
-## Part 2: Clone The Granite Workshop Repo
-While we're still in the terminal, we need to clone the Granite workshop repo into a desired location on PACE.
-
-- Step 1. Clone The IBM Granite Workshop Repo
+- Step 5. Clone The IBM Granite Workshop Repo
 ```
-[login-ice ~]$ git clone https://github.com/IBM/granite-workshop.git
+(granite_env) [login-ice ~]$ git clone https://github.com/IBM/granite-workshop.git
 ```
-- Step 2. Now when you start your Jupyter session, you'll then use the Jupyter file browser to navigate to `granite-workshop/notebooks`.
 
 ## Part 3: Starting an Open OnDemand instance
 The easiest way to use Ollama with Jupyter notebooks is to use the [(DOCS) Open OnDemand instance for ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133) (Requires GT login for docs and OOD interface). Once you log in to the OnDemand instance, you can select the following: `Interactive Applications -> Ollama + Jupyter (Beta)`
@@ -76,6 +72,12 @@ Now you need to create an instance, for your convience - we recommend running wi
 - Total memory: <32 GB or 64 GB>
 - Time: <start with 1 hour and expand as needed>
 - Quality of service: `Default (none)`
+
+After some time, you'll see something like following populate under `My Interactive Sessions` - this is your PACE-ICE node.
+
+<img width="756" alt="SS3" src="https://github.com/user-attachments/assets/191e5063-ac41-481c-a6ce-5f484eeb3c0c" />
+
+Now when you start your Jupyter session, you'll then use the Jupyter file browser to navigate to `granite-workshop/notebooks`.
 
 ## Part 4: ICE Specific Changes
 Through testing, we've discovered a change that must be made in regards to how the notebooks starts an Ollama session. Our approach on ICE is actually simpler than the original notebook.
