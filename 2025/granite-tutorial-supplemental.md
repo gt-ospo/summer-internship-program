@@ -33,7 +33,7 @@ We highly suggests that you create a "clean" venv or virtual environment to run 
 
 - Step 3. Source the newly declared environment to use it on your terminal
 ```
-[login-ice ~]$ source ~/granite_env/bin/activate
+[login-ice ~]$ source granite_env/bin/activate
 ```
 > [!NOTE]
 > Make sure this venv has jupyter installed to use with the PACE OOD environment.
