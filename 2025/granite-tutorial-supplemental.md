@@ -34,7 +34,7 @@ A new terminal window should open, you can now run the following commands to set
 
 - Step 2. Declare the virtual environment
 ```
-[login-ice ~]$ python -m venv --upgrade-deps --clear venv granite_env
+[login-ice ~]$ python -m venv --upgrade-deps --clear granite_env
 ```
 > [!NOTE]
 > We've named our venv "granite_venv" here but you can name it whatever you like - just adjust accordingly!
