@@ -25,7 +25,7 @@ Now, we'll need to set up a "clean" venv (or virtual environment) via the termin
 A new terminal window should open, you can now run the following commands to setup your venv:
 
 > [!WARNING]
-> Below is a shell prompt—these lines show both the prompt and the command. Only copy the command portion, not the entire line!
+> Below is a shell prompt - these lines show both the prompt and the command. Only copy the command portion (after the $), not the entire line!
 
 - Step 1. Load our (stable) Python version
 ```
@@ -56,7 +56,7 @@ A new terminal window should open, you can now run the following commands to set
 (granite_env) [login-ice ~]$ git clone https://github.com/IBM/granite-workshop.git
 ```
 
-## Part 3: Starting an Open OnDemand instance
+## Part 2: Starting an Open OnDemand instance
 The easiest way to use Ollama with Jupyter notebooks is to use the [(DOCS) Open OnDemand instance for ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133) (Requires GT login for docs and OOD interface). Once you log in to the OnDemand instance, you can select the following: `Interactive Applications -> Ollama + Jupyter (Beta)`
 
 <img width="756" alt="SS1" src="https://github.com/user-attachments/assets/9eaeabae-6f94-4a9f-9ad8-1ba1931f16be" />
@@ -79,7 +79,7 @@ After some time, you'll see something like following populate under `My Interact
 
 Now when you start your Jupyter session, you'll then use the Jupyter file browser to navigate to `granite-workshop/notebooks`.
 
-## Part 4: ICE Specific Changes
+## Part 3: ICE Specific Changes
 Through testing, we've discovered a change that must be made in regards to how the notebooks starts an Ollama session. Our approach on ICE is actually simpler than the original notebook.
 
 In the original [Summarize example notebook](https://ibm.github.io/granite-workshop/lab-1/) from Lab 1, the session is started in this cell. 
