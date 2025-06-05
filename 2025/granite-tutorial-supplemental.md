@@ -3,7 +3,7 @@
 This page covers the added resources to run and work with the open source [IBM Granite Workshop material](https://ibm.github.io/granite-workshop). Please consider this a replacement for the Granite Workshop's Lab 0 prelab.
 
 > [!IMPORTANT]
-> You will need access to the GA Tech VPN - this can be installed locally, or via your web browser here: [vpn.gatech.edu](https://vpn.gatech.edu/)
+> You will need access to the GA Tech VPN - this can be installed locally, or accessed entirely via your web browser here: [vpn.gatech.edu](https://vpn.gatech.edu/)
 
 ___
 
@@ -135,13 +135,13 @@ model = model.bind(raw=True) # Client side controls prompt
 >     print(m.model)
 > ```
 
-#### You're all set! Now you can rock and roll with Ollama+Granite via your browser 🚀🤘
+#### You're all set! Now, you can rock and roll with Ollama+Granite via your browser 🚀🤘
 
 ___ 
 
 ## Frequently Asked Questions
 ### Can I run these locally?
-IBM recommends running the Granite workshop on a computer with at least 32 GB of RAM and with a GPU. Users who wish to run the workshop locally but do not have a computer that meets these requirements, may experience generation times of 10-20 minutes to run a single query on a computer with the Granite demos - along side increased heat production and resource consumption.
+IBM recommends running the Granite workshop on a computer with at least 32 GB of RAM and with a GPU. Users who wish to run the workshop locally but do not have a computer that meets these requirements, may experience content generation times of 10-20 minutes on a single query - along side increased heat production and resource consumption.
 
 We encourage you to play around with these models, after all - they're open source! But please note that not everything you want to build may be possible to run on your current computer without the help of the PACE-ICE cluser.
 
