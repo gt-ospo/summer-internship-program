@@ -7,7 +7,7 @@ This page covers some added resources to run and work with the open source [IBM 
 
 ___
 
-## Running on PACE ICE
+## Running on PACE-ICE
 Students with the VSIP program have access to the ICE cluster, which has CPU and GPU backends as well as an ollama instance supported through Open OnDemand. This Ollama instance can be used in place of running locally on your laptop or Replicate, which uses a GPU backend.
 
 [Using Ollama + Jupyter in Open OnDemand](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0044442) (requires GT login)
@@ -31,7 +31,7 @@ We highly suggests that you create a "clean" venv or virtual environment to run 
 > We've named our venv "granite_venv" here but you can name it whatever you like!
 
 
-- Step 3. Source the newly decalred environment to use it on your terminal
+- Step 3. Source the newly declared environment to use it on your terminal
 ```
 [login-ice ~]$ source ~/granite_env/bin/activate
 ```
