@@ -122,6 +122,7 @@ except Exception: # Use Replicate for the model
 ```Python
 import os
 from langchain_ollama.llms import OllamaLLM
+from ibm_granite_community.notebook_utils import get_env_var
 
 model_path = "ibm-granite/granite-3.3-8b-instruct"
 model = OllamaLLM(
