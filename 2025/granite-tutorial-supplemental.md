@@ -2,6 +2,10 @@
 
 This page covers the added resources to run and work with the open source [IBM Granite Workshop material](https://ibm.github.io/granite-workshop). Please consider this a replacement for the Granite Workshop's Lab 0 prelab.
 
+## Related Videos
+- [IBM Granite Workshop Overview - by BJ Hargrave - June 4th](https://mediaspace.gatech.edu/media/Granite+Workshop+for+GT+OSPO+VSIP+-+June+4th%2C+2025/1_uiym8a8f)
+- [GT Office Hours for this PACE ICE training - June 5th](https://mediaspace.gatech.edu/media/OSPO+VSIP+-+Running+Granite+on+PACE+ICE/1_w5fsoz1e)
+
 > [!IMPORTANT]
 > You will need access to the GA Tech VPN - this can be installed locally, or accessed entirely via your web browser here: [vpn.gatech.edu](https://vpn.gatech.edu/)
 
