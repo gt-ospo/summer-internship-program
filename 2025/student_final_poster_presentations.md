@@ -2,7 +2,7 @@
 
 This page contains the agenda and poster presentations for the final poster session for the 2025 Virtual Summer Internship Program (VSIP) held on July 31st, 2025.
 
-The video recording for this session can be found on our Mediaspace [here]() after the event.
+The video recording for this session can be found on our Mediaspace [here](https://mediaspace.gatech.edu/media/OSPO+Virtual+Summer+Internship+Program+2025+-+Poster+Presentations/1_9oxh5kfl).
 
 All posters can be found as links from this page. 
 
