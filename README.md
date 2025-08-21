@@ -4,7 +4,7 @@ Starting in 2024, the GT Open Source Program Office (OSPO) ran a new Virtual Sum
 
 ## 2025 Updates
 
-We are starting the next cycle for the 2025 Summer Internship, running from May 19th to July 31st. Please see our [2025 page](https://ospo.cc.gatech.edu/vsip-2025/) and the [informational session agenda](https://github.com/gt-ospo/summer-internship-program/blob/main/2025/information_session_agenda.md).
+We have finished the 2025 Summer Internship, running from May 19th to July 31st. Check out the posters [at this link](https://github.com/gt-ospo/summer-internship-program/blob/main/2025/student_final_poster_presentations.md)!
 
 ## 2024 Updates
 The 2024 Summer Internship Program is now complete, and we're excited to share some of the key outputs from our students: 
