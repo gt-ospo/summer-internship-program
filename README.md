@@ -1,6 +1,13 @@
 # GT OSPO Summer Internship Program
 
-Starting in 2024, the GT Open Source Program Office (OSPO) ran a new Virtual Summer Internship Program for students to participate in various open-source projects during the summer session. During this virtual internship, students joined an open source project, worked with the developers and maintainers of that project to make contributions to the code base, and learned useful software development and engineering skills to engage with the wider open-source community. 
+Starting in 2024, the GT Open Source Program Office (OSPO) has run a new Virtual Summer Internship Program for students to participate in various open-source projects during the summer session. During this virtual internship, students joined an open source project, worked with the developers and maintainers of that project to make contributions to the code base, and learned useful software development and engineering skills to engage with the wider open-source community. 
+
+> [!NOTE]
+> This page provides links to public presentations and resources related to this program. Please see our main landing page [here](https://ospo.cc.gatech.edu/vsip/) for any applications or links to forms.
+
+## 2026 Updates
+See our [2026 README](https://github.com/gt-ospo/summer-internship-program/blob/main/2026/README.md) for related resources.
+
 
 ## 2025 Updates
 
