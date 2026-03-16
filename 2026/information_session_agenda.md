@@ -17,7 +17,7 @@ Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more detai
 | 4:15                | [AMOS-Gateway](https://amos-gateway.org) |       Sudhakar Pamidigha                | Django web framework, Javascript, CSS, Linux |  | [Slides]    |
 | 4:20                | [VizFold](https://github.com/AI2Science/vizfold-foundation) | Giri Krishnan                      | AI/Deep learning |  | [Slides]  |
 | 4:25                | [LibreTech](https://ltc.gtorg.gatech.edu/) | Kenneth Jenkins                       | DAT/Apereo P2P projects |  | [No Slides]                 |
-| 4:30                | [Grafana Dashboard for LiteLLM](https://grafana.com/grafana/dashboards/) | Ron Rahaman                       | Python |  | [Slides](mentor_project_slides/"SPIN_OSPO_VSIP_presentation.pdf")                 |
+| 4:30                | [Grafana Dashboard for LiteLLM](https://grafana.com/grafana/dashboards/) | Ron Rahaman                       | Python |  | [Slides](mentor_project_slides/SPIN_OSPO_VSIP_presentation.pdf)                 |
 | 4:35                | [Business Data Analytical](https://jonathanatuscpsu.github.io/OpenSourcePackages/) | Zhaohu (Jonathan) Fan                       | Python |  | [No Slides]                 |
 | 4:40                | [GTSAM](https://github.com/borglab/gtsam) | Frank Dellaert                       | C++ and some robotics perception experience |  | [No Slides]                 |
 
