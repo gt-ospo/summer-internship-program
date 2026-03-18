@@ -20,5 +20,5 @@ Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more detai
 | 4:30                | [Custos](https://github.com/apache/airavata-custos) | Lahiru Jayathilake                       | Jave, Go|  | [Slides](mentor_project_slides/Apache-Airavata-Custos-OSPO.pdf)                 |
 | 4:35                | [LibreTech](https://ltc.gtorg.gatech.edu/) | Kenneth Jenkins                       | DAT/Apereo P2P projects |  | [No Slides]                   |
 | 4:40                | [Business Analytics in Action](https://jonathanatuscpsu.github.io/OpenSourcePackages/) | Zhaohu (Jonathan) Fan                       | Python |  | [Slides](mentor_project_slides/Business_Analytics_in_Action.pdf)                 |
-| 4:45                | [GTSAM](https://github.com/borglab/gtsam) | Frank Dellaert                       | C++ and some robotics perception experience |  | [No Slides]                 |
+| 4:45                | [GTSAM](https://github.com/borglab/gtsam) | Frank Dellaert                       | C++ and some robotics perception experience |  | [Slides](mentor_project_slides/GTSAM-OSPO.pdf)                 |
 
