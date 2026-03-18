@@ -17,7 +17,7 @@ Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more detai
 | 4:15                | ARTISAN Projects Intro | Suresh Marru                       |  |  | [Slides](mentor_project_slides/ARTISAN-OSPO-March17th2026.pdf)                 |
 | 4:20                | [AMOS](https://amos-gateway.org) |       Sudhakar Pamidigha                | Django web framework, Javascript, CSS, Linux |  | [Slides](mentor_project_slides/GT_OSPO-VSIP2026_AMOS_intro.pdf)    |
 | 4:25                | [VizFold](https://github.com/AI2Science/vizfold-foundation) | Giri Krishnan                      | AI/Deep learning |  | [Slides](mentor_project_slides/vizfold-OSPO-March17th2026.pdf)  |
-| 4:30                | [Custos](https://github.com/apache/airavata-custos) | Lahiru Jayathilake                       | Jave, Go|  | [Slides](mentor_project_slides/Apache-Airavata-Custos- OSPO.pdf)                 |
+| 4:30                | [Custos](https://github.com/apache/airavata-custos) | Lahiru Jayathilake                       | Jave, Go|  | [Slides](mentor_project_slides/Apache-Airavata-Custos-OSPO.pdf)                 |
 | 4:35                | [LibreTech](https://ltc.gtorg.gatech.edu/) | Kenneth Jenkins                       | DAT/Apereo P2P projects |  | [No Slides]                   |
 | 4:40                | [Business Analytics in Action](https://jonathanatuscpsu.github.io/OpenSourcePackages/) | Zhaohu (Jonathan) Fan                       | Python |  | [Slides](mentor_project_slides/Business_Analytics_in_Action.pdf)                 |
 | 4:45                | [GTSAM](https://github.com/borglab/gtsam) | Frank Dellaert                       | C++ and some robotics perception experience |  | [No Slides]                 |
