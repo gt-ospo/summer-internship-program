@@ -2,7 +2,7 @@
 
 This page contains the agenda and slides for the informational session held on March 17th, 2026. 
 
-The video recording for this session will be published on our Mediaspace. 
+The video recording for this session is [HERE](https://mediaspace.gatech.edu/media/2026+OSPO+Virtual+Summer+Student+Internship+Information+Session/1_65xsoow0). 
 
 Please see the [main VSIP page](https://ospo.cc.gatech.edu/vsip/) for more details on the program and to apply. 
 
