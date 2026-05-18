@@ -21,11 +21,14 @@ In short, all contributions are meaningful, but please 1) pick issues that match
 
 As a volunteer student, you are still able to engage with and learn about open source development. Additionally, it is likely that you can make a meaningful contribution to a project and can be a long-term contributor! Contributions of these kinds help set you apart from other job applicants and give you "real-world" experience in working on larger codebases.
 
-
-
 # 2026 Summer Project Opportunities
-
-Please check back towards the beginning of May for specific project opportunities!
 
 > [!TIP]
 > We strongly encourage all interested students join the OSPO Discord or MS Teams ospo-discuss channel to stay in touch - please see links for these at our [main contact page here](https://ospo.cc.gatech.edu/contact/).
+
+## CNCF Projects
+https://contribute.cncf.io/contributors/
+
+## DAT Ecosystem
+
+
