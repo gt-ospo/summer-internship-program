@@ -6,7 +6,7 @@ We are optimistic that students and mentors will both work effectively together 
 
 Mentors are requested to follow these guidelines for their involvement in this summer program. 
 
-- Adhere to the [VSIP Code of Conduct](../CODE_OF_CONDUCT.m)
+- Adhere to the [VSIP Code of Conduct](CODE-OF-CONDUCT.md)
 - Dedicate at least 1-2 hours per week to meet with your mentees in a video call or similar type of meeting
 - Work with student mentees to set up milestones and a final goal for the project
 - Use the provided Discord for asynchronous Q&A or agree on an alternate means of communication
@@ -16,7 +16,7 @@ Mentors are requested to follow these guidelines for their involvement in this s
 
 Mentees are expected to work with their mentors on their assigned project for the duration of the program and adhere to the milestone schedule and final goal of the project. Additionally, we request that mentees follow these guidelines:
 
-- Adhere to the [VSIP Code of Conduct](../CODE_OF_CONDUCT.md)
+- Adhere to the [VSIP Code of Conduct](CODE-OF-CONDUCT.md)
 - Track your time as you work (for paid hourly students only) - please try to work around 20 hours a week and track your time appropriately.
 - **Be respectful of your mentor's time!**
     - Make sure to communicate clearly with your mentors about any issues or potential delays in meeting or updates during the week.
