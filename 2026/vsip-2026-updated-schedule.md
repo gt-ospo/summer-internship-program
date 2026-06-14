@@ -18,14 +18,14 @@ For the 2026 VSIP, sessions will happen at 11 AM ET on Tuesdays and 1 PM ET on T
 | May 19th            | Kickoff Meeting                                   |                                                            |
 | May 21st            | Office Hours – Milestones and Goals               | Come ask about creating milestones and goals; Thursdays are office hours unless otherwise noted |
 | (Week of) May 25th  | Submission of official milestones for students    | Mentors and students meet and discuss projects and set milestones |
-| May 26th            | OSS Module 1 – Review Git Best Practices          | All modules are virtual workshops with slides / hands-on    |
-| May 28th            | OSS Module 2 – Contributing to OSS                | Work through PRs, issue tracking                           |
-| June 2nd            | OSS Module 2 – Contributing to OSS (continued)    | Work through PRs, issue tracking                           |
-| June 9th            | OSS Module 3 – Testing your Code                  | Discuss CI/CD and basic testing                            |
-| June 15th           | OSS Module 4 – Code Reviews                       | Learn how to review PRs and team communication             |
+| May 26th            | OSS Module 1 – Git Lesson 1                       | Introduction to Git and Github; git remotes and branches    |
+| May 28th            | OSS Module 2 – Git Lesson 2                       | Git branching and merging                                 |
+| June 2nd            | OSS Module 3 – Git Lesson 3                       | Issues, Forks, and Pull Requests                           |
+| June 9th            | OSS Module 4 – Testing your Code                  | Discuss basic testing with Python                           |
+| June 16th           | OSS Module 5 – CI/CD                              | Introduction to CI/CD with GitHub                                              |
 | (Week of) June 23rd | Milestone 1 – Midterm Check-in                    | Discuss any sticking points with teams; students present milestone updates T/Thursday |          
-| June 30th           | OSS Module 5 – OSS Tips and Tricks                | Talk about lessons learned from existing OSS communities              |
-| July 2nd            | OSS Module 6 – Building OSS Community             |                                                                       |
+| June 30th           | OSS Module 6 – Code Review                        | Go over principles of code review and best practices for PRs             |
+| July 2nd            | OSS Module 8 – OSS Best Practices                 |                                                                       |
 | (Week of) July 7th  | Milestone 2 – Midterm Check-in                    |                                                                       |
 | July 14th           | Finalize OSS Contributions                        | Work on cleaning up and code/documentation contributions              |
 | (Week of) July 23rd | Final Poster Presentations                        |                                                                       |
