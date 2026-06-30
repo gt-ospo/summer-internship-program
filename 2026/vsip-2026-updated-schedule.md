@@ -25,7 +25,8 @@ For the 2026 VSIP, sessions will happen at 11 AM ET on Tuesdays and 1 PM ET on T
 | June 16th           | OSS Module 5 – CI/CD                              | Introduction to CI/CD with GitHub                                              |
 | (Week of) June 23rd | Milestone 1 – Midterm Check-in                    | Discuss any sticking points with teams; students present milestone updates T/Thursday |          
 | June 30th           | OSS Module 6 – Code Review                        | Go over principles of code review and best practices for PRs             |
-| July 2nd            | OSS Module 8 – OSS Best Practices                 |                                                                       |
+| July 2nd            | NBGrader Training Overview                        | We will go over a new platform for doing OSS training!                                |
 | (Week of) July 7th  | Milestone 2 – Midterm Check-in                    |                                                                       |
-| July 14th           | Finalize OSS Contributions                        | Work on cleaning up and code/documentation contributions              |
+| July 14th           | OSS Module 8 - OSS Best Practices                 |                                                                       |
+| July 16th           | Finalize OSS Contributions                        | Work on cleaning up and code/documentation contributions              |
 | (Week of) July 23rd | Final Poster Presentations                        |                                                                       |
