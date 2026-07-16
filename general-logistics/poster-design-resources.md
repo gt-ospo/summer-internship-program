@@ -5,7 +5,7 @@ At the end of each VSIP, we ask students to present a poster on their group's wo
 ## How do I create a good poster?
 There are a few key tips, but one of the most important is to treat a poster as an advertisement for your work. It doesn't have to cover everything, and you can link to supplemental material that others can go and review after your present your poster. 
 
-See this [brief slide presentation for an overview], or take a look at any of the links below for examples of good poster design.
+See this [brief slide presentation for an overview](https://github.com/gt-ospo/summer-internship-program/blob/f5e2fdb89f5756c853e5793e638ea2671928a1fc/general-logistics/2025-07-25-poster-design.pdf), or take a look at any of the links below for examples of good poster design.
 
 - [Mike Morrison, “How to create a better research poster in less time”, YouTube](https://www.youtube.com/watch?v=SYk29tnxASs)
   - Mike has a nice blog as well at [betterposters.blogspot.om](https://betterposters.blogspot.com/)
