@@ -16,7 +16,7 @@ Note that the schedule may change slightly before the event.
 | 11:20            | Yicong Luo, Elliot Day                                       | MFem |
 | 11:30            | Raghav Vikramprabhu, Akshay Daftardar                        | [Qwerty]()        |
 | 11:40            | Lexi Yan, Taha Keen                                          | [PSI4]()                    |
-| 11:50            | Li Weijiang, Huizhong Xue | MFC |
+| 11:50            | Huizhong Xue | MFC |
 | 12:00            | Hanxiang Hao, Mingjun Xu           | [Vortex]()             |
 | 12:10            | **BREAK**                                                    | -                                                            |
 | 12:20            | Thinh Nguyen, Ziming Zhang                      | [AMOS]()   |
@@ -24,5 +24,5 @@ Note that the schedule may change slightly before the event.
 | 12:40            | Jayanth Vennamreddy, Gao Ruihuan                             | [Custos]()             |
 | 12:50            | Isabel Aranguren Lares, Alex Jenkins                             | Quibble - LibreTech            |
 | 13:00            | James Park, Peter Chang                                                       | [Business Analytics In Action]()                                   |
-| 13:10            | Govind Khandelwal, Grant Polazzo, Jiahao Chen                        | [GTSAM]() |
+| 13:10            | Grant Polazzo, Jiahao Chen                        | [GTSAM]() |
 | 13:20            | Mengping Zhang, David Diaz  | Kubestellar |
