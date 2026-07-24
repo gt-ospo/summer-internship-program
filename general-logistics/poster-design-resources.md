@@ -2,6 +2,9 @@
 
 At the end of each VSIP, we ask students to present a poster on their group's work. This is presented initially in a virtual format, but we also work to make in-person poster presentation opportunities available to all students.  
 
+> [!TIP]
+> Your poster should have a link to the project you are working on - ideally a project page or URL for the GitHub repo! Consider adding this as a QR code to your poster.
+
 ## How do I create a good poster?
 There are a few key tips, but one of the most important is to treat a poster as an advertisement for your work. It doesn't have to cover everything, and you can link to supplemental material that others can go and review after your present your poster. 
 
