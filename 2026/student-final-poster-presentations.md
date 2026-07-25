@@ -1,15 +1,13 @@
 # 2026 Poster Presentation Session
 
-This page contains the agenda and poster presentations for the final poster session for the 2025 Virtual Summer Internship Program (VSIP) held on July 31st, 2025.
+This page contains the agenda and poster presentations for the final poster session for the 2026 Virtual Summer Internship Program (VSIP) held on July 24th, 2026.
 
 - The video recording for this session can be found on Mediaspace at [this link](https://mediaspace.gatech.edu/media/OSPO+VSIP+2026+-++Final+Poster+Session/1_wsgbv1pq).
 - All posters can be found as links from this page on the day of the event.
 
 ## Poster Presentation Schedule
 
-Note that the schedule may change slightly before the event.
-
-| Time (US ET, AM) | Presenters                                                   | Project [Poster]                                                     |
+| Time (US ET) | Presenters                                                   | Project [Poster]                                                     |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 11:00            | Jeff, Cherry                                                 | Program summary, final steps                                 |
 | 11:10            | Yicong Luo, Elliot Day, Qi Tang (**M**entor), Ketan Mittal (M)                                      | [MFEM](https://mfem.org/)  [[Poster]](https://github.com/gt-ospo/summer-internship-program/blob/238bddb1f42b48e17b7e9a678ad14da50c2fe394/2026/final_student_posters/MFEM_Poster_OSPO_VSIP_2026.pdf) |
