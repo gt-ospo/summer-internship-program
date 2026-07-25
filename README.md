@@ -8,6 +8,8 @@ Starting in 2024, the GT Open Source Program Office (OSPO) has run a new Virtual
 ## 2026 Updates
 See our [2026 README](https://github.com/gt-ospo/summer-internship-program/blob/main/2026/README.md) for related resources.
 
+We have finished the 2026 Summer Internship, running from May 18th to July 24th. Check out the posters [at this link](https://github.com/gt-ospo/summer-internship-program/blob/main/2026/student-final-poster-presentations.md)!
+
 
 ## 2025 Updates
 
